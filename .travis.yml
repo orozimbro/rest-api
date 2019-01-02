@@ -5,3 +5,6 @@ jdk:
 
 install:
 - mvn clean
+
+script:
+- mvn test
