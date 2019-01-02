@@ -13,8 +13,8 @@
 	</parent>
 
 	<groupId>com.ms.restapi</groupId>
-	<artifactId>rest-api</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>re;st-api</artifactId>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>rest-api</name>
 	<description>Example of rest api on srping</description>
 
